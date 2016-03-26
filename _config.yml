@@ -1,0 +1,28 @@
+name: Invincible Space Dinosaur
+favicon: null
+layout_spectrum: 0.3838611375540495
+typography_spectrum: 0.9457657285965979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06834146124310791
+  lightness: 0.22950652102008462
+  saturation: 0.7629504990763962
+  rhythmicContrast: 0.8614756038878113
+purpose: []
