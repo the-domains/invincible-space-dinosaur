@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Invincible Space Dinosaur in All of Us
-datePublished: '2016-03-26T21:11:37.679Z'
-dateModified: '2016-03-26T21:11:18.190Z'
+datePublished: '2016-03-27T00:07:32.891Z'
+dateModified: '2016-03-26T21:11:44.269Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-the-invincible-space-dinosaur-in-all-of-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-the-invincible-space-dinosaur-in-all-of-us.md
-published: true
 url: the-invincible-space-dinosaur-in-all-of-us/index.html
 _type: Article
 
