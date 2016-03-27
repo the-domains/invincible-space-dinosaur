@@ -1,6 +1,6 @@
 name: Invincible Space Dinosaur
 favicon: null
-layout_spectrum: 0.9525
+layout_spectrum: 0.58945
 typography_spectrum: 0.68564
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#6f9580'
     - '#253650'
     - '#9a52a5'
-  brandStrength: 0.6875
+  brandStrength: 0.375
   lightness: 0.22950652102008462
-  saturation: 0
+  saturation: 0.6875
   rhythmicContrast: 0.8614756038878113
 purpose: []
