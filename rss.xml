@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Invincible Space Dinosaur]]></title>
         <description><![CDATA[Invincible Space Dinosaur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/invincible-space-dinosaur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:11:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 00:07:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/invincible-space-dinosaur/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28169165-4b22-4a55-932c-04927e50643f.jpg">]]></description>
-            <link>undefinedthe-invincible-space-dinosaur-in-all-of-us/index.html</link>
+            <link>https://thegrid.ai/invincible-space-dinosaur/the-invincible-space-dinosaur-in-all-of-us/index.html</link>
             <guid isPermaLink="false">20e159e6-8cfd-44f6-a020-07b1fa9497a2</guid>
-            <pubDate>Sat, 26 Mar 2016 21:11:37 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 00:07:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
